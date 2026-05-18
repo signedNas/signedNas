@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">signedNas</h1>
 
-<!--
-**signedNas/signedNas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  DSP • FPGA • Embedded Linux • RF Systems
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Embedded systems, signal processing and debugging things that should have worked already.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Embedded and DSP engineer working on RF systems, FPGA-based platforms and hardware-aware signal processing.
+
+Currently interested in:
+- RFSoC architectures
+- Embedded Linux
+- High-performance DSP
+- Hardware acceleration
+- Real-time systems
+- Applied machine learning
+
+Pursuing a Master's degree focused on DSP and intelligent systems.
+
+---
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,matlab,verilog,py,c,cpp,bash" />
+</p>
+
+---
+
+## Areas of Interest
+
+- FPGA Architectures
+- Embedded Linux
+- Digital Signal Processing
+- Hardware Acceleration
+- RF Systems
+- Edge AI
+- Real-Time Systems
