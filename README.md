@@ -1,4 +1,4 @@
-<h1 align="center">signedNas</h1>
+<h1 align="center">Nasser Brown</h1>
 
 <p align="center">
   DSP • FPGA • Embedded Linux • RF Systems
@@ -29,7 +29,7 @@ Pursuing a Master's degree focused on DSP and intelligent systems.
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,matlab,verilog,py,c,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,matlab,verilog,py,c,bash" />
 </p>
 
 ---
